@@ -43,6 +43,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Summary.md" />
+    <None Include="Topics\Asset Sharing\1 Overview.md" />
+    <None Include="Topics\Asset Sharing\2 Adding Shared Assets.md" />
+    <None Include="Topics\Asset Sharing\2.1 Add Shared Assets Wizard.md" />
     <None Include="Topics\Build Pipeline Scripting\1 Overview.md" />
     <None Include="Topics\Build Pipeline Scripting\2 Build Hooks.md" />
     <None Include="Topics\Build Pipeline Scripting\3.1 Build Pre-Processor.md" />
@@ -51,6 +54,10 @@
     <None Include="Topics\Build Pipeline Scripting\3.4 Build Script Compilation Pre-Processor.md" />
     <None Include="Topics\Build Pipeline Scripting\3.5 Build Script Compilation Post-Processor.md" />
     <None Include="Topics\Build Pipeline Scripting\3.6 Build Port-Processor.md" />
+    <None Include="Topics\Build Pipeline Scripting\4 Build API.md" />
+    <None Include="Topics\Build Pipeline Scripting\4.1 Cause A Build To Fail.md" />
+    <None Include="Topics\Build Pipeline Scripting\4.2 Access Build Assets.md" />
+    <None Include="Topics\Build Pipeline Scripting\4.3 Access Mod Export Profile.md" />
     <None Include="Topics\Custom Metadata\2 Define Custom Metadata.md" />
     <None Include="Topics\Custom Metadata\1 Overview.md" />
     <None Include="Topics\Custom Metadata\4 Building Custom Metadata.md" />
@@ -60,6 +67,7 @@
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
+    <Content Include="Images\Asset Sharing\Build Tools Wizard - Asset Sharing.png" />
     <Content Include="Images\Build Pipeline Scripting\BuildPipeline.png" />
     <None Include="Topics\Build Pipeline Scripting\3 Available Build Hooks.md" />
   </ItemGroup>

@@ -63,6 +63,8 @@
     <None Include="Topics\Custom Metadata\2 Define Custom Metadata.md" />
     <None Include="Topics\Custom Metadata\1 Overview.md" />
     <None Include="Topics\Custom Metadata\4 Building Custom Metadata.md" />
+    <None Include="Topics\Mod Loading\1 Overview.md" />
+    <None Include="Topics\Mod Unloading\2 Unload A Mod.md" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Topics\Custom Metadata\3 Include Custom Metadata.md" />
@@ -72,6 +74,8 @@
     <Content Include="Images\Asset Sharing\Build Tools Wizard - Asset Sharing.png" />
     <Content Include="Images\Build Pipeline Scripting\BuildPipeline.png" />
     <Content Include="Images\Concepts\Mod Host Lifecycle.png" />
+    <None Include="Topics\Mod Loading\3 Load A Mod Async.md" />
+    <None Include="Topics\Mod Loading\2 Load A Mod.md" />
     <None Include="Topics\Asset Sharing\4 Runtime Load Requests.md" />
     <None Include="Topics\Asset Sharing\3 Shared Assets Database.md" />
     <None Include="Topics\Build Pipeline Scripting\3 Available Build Hooks.md" />

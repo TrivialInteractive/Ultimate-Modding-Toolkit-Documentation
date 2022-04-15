@@ -45,6 +45,12 @@
     <None Include="Summary.md" />
     <None Include="Topics\Build Pipeline Scripting\1 Overview.md" />
     <None Include="Topics\Build Pipeline Scripting\2 Build Hooks.md" />
+    <None Include="Topics\Build Pipeline Scripting\3.1 Build Pre-Processor.md" />
+    <None Include="Topics\Build Pipeline Scripting\3.2 Build Collect Assets Processor.md" />
+    <None Include="Topics\Build Pipeline Scripting\3.3 Build Asset Processor.md" />
+    <None Include="Topics\Build Pipeline Scripting\3.4 Build Script Compilation Pre-Processor.md" />
+    <None Include="Topics\Build Pipeline Scripting\3.5 Build Script Compilation Post-Processor.md" />
+    <None Include="Topics\Build Pipeline Scripting\3.6 Build Port-Processor.md" />
     <None Include="Topics\Custom Metadata\2 Define Custom Metadata.md" />
     <None Include="Topics\Custom Metadata\1 Overview.md" />
     <None Include="Topics\Custom Metadata\4 Building Custom Metadata.md" />
@@ -55,6 +61,7 @@
   <ItemGroup />
   <ItemGroup>
     <Content Include="Images\Build Pipeline Scripting\BuildPipeline.png" />
+    <None Include="Topics\Build Pipeline Scripting\3 Available Build Hooks.md" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

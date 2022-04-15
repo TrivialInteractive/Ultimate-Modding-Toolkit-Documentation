@@ -53,11 +53,13 @@
     <None Include="Topics\Build Pipeline Scripting\3.3 Build Asset Processor.md" />
     <None Include="Topics\Build Pipeline Scripting\3.4 Build Script Compilation Pre-Processor.md" />
     <None Include="Topics\Build Pipeline Scripting\3.5 Build Script Compilation Post-Processor.md" />
-    <None Include="Topics\Build Pipeline Scripting\3.6 Build Port-Processor.md" />
+    <None Include="Topics\Build Pipeline Scripting\3.6 Build Post-Processor.md" />
     <None Include="Topics\Build Pipeline Scripting\4 Build API.md" />
     <None Include="Topics\Build Pipeline Scripting\4.1 Cause A Build To Fail.md" />
     <None Include="Topics\Build Pipeline Scripting\4.2 Access Build Assets.md" />
     <None Include="Topics\Build Pipeline Scripting\4.3 Access Mod Export Profile.md" />
+    <None Include="Topics\Concepts\1 Overview.md" />
+    <None Include="Topics\Concepts\2 Mod Host.md" />
     <None Include="Topics\Custom Metadata\2 Define Custom Metadata.md" />
     <None Include="Topics\Custom Metadata\1 Overview.md" />
     <None Include="Topics\Custom Metadata\4 Building Custom Metadata.md" />
@@ -69,6 +71,9 @@
   <ItemGroup>
     <Content Include="Images\Asset Sharing\Build Tools Wizard - Asset Sharing.png" />
     <Content Include="Images\Build Pipeline Scripting\BuildPipeline.png" />
+    <Content Include="Images\Concepts\Mod Host Lifecycle.png" />
+    <None Include="Topics\Asset Sharing\4 Runtime Load Requests.md" />
+    <None Include="Topics\Asset Sharing\3 Shared Assets Database.md" />
     <None Include="Topics\Build Pipeline Scripting\3 Available Build Hooks.md" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

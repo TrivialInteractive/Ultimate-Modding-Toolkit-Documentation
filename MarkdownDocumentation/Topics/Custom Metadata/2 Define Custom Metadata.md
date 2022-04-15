@@ -29,3 +29,5 @@ As you can see, the implementation is very simple. Serialization rules will foll
 The `ModCustomMetadata` type also provides some virtual methods that you can optionally override. These methods are intended as events to notify when Ultimate Modding Toolkit intends to serialize or deserialize the object data:
 * `OnBeforeSerialize`: Override this method to receive a callback just before Ultimate Modding Toolkit is about to serialize the metadata object. This will usually be called during the build process.
 * `OnAfterDeserialize`: Override this method to receive a callback just after Ultimate Modding Toolkit has deserialized the metadata object. This will usually be called at runtime when a mod is being loaded.
+
+[Continue (Include Custom Metadata)](3 Include Custom Metadata.md)

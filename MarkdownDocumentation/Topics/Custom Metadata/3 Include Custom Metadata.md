@@ -19,3 +19,5 @@ Once you have created your assembly, drag and drop/import it into your Unity pro
 > **_NOTE_:** _You may need to input required values into the Mod Tools Builder before you can advance to the `Game API` section. See the Mod Tools Builder section of this user guide for details._
 
 Under the `Assemblies` foldout, use the folder tree view to navigate to the assembly that you imported and tick the checkbox next to its name. You can continue to export the package now or at a later date (The `Game API` configuration will be remembered) and it will be setup for use with your custom metadata type.
+
+[Continue (Building Custom Metadata)](4 Building CUstom Metadata.md)

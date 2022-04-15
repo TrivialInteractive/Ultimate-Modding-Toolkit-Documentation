@@ -43,13 +43,18 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Summary.md" />
-    <None Include="Topics\Custom Metadata.md" />
+    <None Include="Topics\Build Pipeline Scripting\1 Overview.md" />
+    <None Include="Topics\Build Pipeline Scripting\2 Build Hooks.md" />
     <None Include="Topics\Custom Metadata\2 Define Custom Metadata.md" />
     <None Include="Topics\Custom Metadata\1 Overview.md" />
     <None Include="Topics\Custom Metadata\4 Building Custom Metadata.md" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Topics\Custom Metadata\3 Include Custom Metadata.md" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="Images\Build Pipeline Scripting\BuildPipeline.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -27,7 +27,7 @@ public class ModUnloadExample : MonoBehaviour
 	if(host.IsLoaded == true)
         {
             // Unload the host when the load has successfully completed
-            host.unloadMod();
+            host.UnloadMod();
         }
     }
 }
